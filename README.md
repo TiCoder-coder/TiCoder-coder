@@ -8,8 +8,6 @@
     <img src="https://img.shields.io/badge/Frontend-Design%20%26%20UI-19001f?style=for-the-badge&logo=figma&logoColor=FF00FF&labelColor=19001f&color=FF00FF" />
     <img src="https://img.shields.io/badge/Theme-Neon%20Cyber-001a1a?style=for-the-badge&logo=githubsponsors&logoColor=00F5FF&labelColor=001a1a&color=00F5FF" />
   </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=NEON%20PROFILE&fontSize=38&fontColor=00F5FF&color=0:050816,50:0a0f1f,100:15001f" />
 </div>
 
 <h2 align="center">
