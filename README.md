@@ -1,7 +1,4 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=TiCoder-coder&fontAlign=50&fontAlignY=38&color=0:050816,50:0b1f3a,100:00f5ff&fontColor=00f5ff&desc=Data%20Science%20%26%20AI%20%7C%20Python%20%7C%20Django%20%7C%20Frontend%20Design&descAlign=50&descAlignY=58" alt="header"/>
-
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Profile+TiCoder-coder;UTH+Student+%7C+Data+Science+%26+AI;Backend+Developer+with+Python+%26+Django;Frontend+Design+Enthusiast;Building+clean+code+and+smart+systems" alt="Typing SVG" />
   </h1>
