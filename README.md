@@ -125,8 +125,6 @@
 
 <div align="center">
 
-  <h3>☠️ Enter the code. Build the future. ☠️</h3>
-
   <img src="https://komarev.com/ghpvc/?username=TiCoder-coder&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge" alt="Profile views" />
 
 </div>
