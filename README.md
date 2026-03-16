@@ -53,7 +53,7 @@
     <td>Data Science &amp; AI</td>
   </tr>
   <tr>
-    <td>🎨 <strong>Extra Focus</strong></td>
+    <td>🎨 <strong>Strong Section</strong></td>
     <td>Frontend Design</td>
   </tr>
 </table>
