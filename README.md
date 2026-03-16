@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 <h2 align="center">⚡ Tech Arsenal</h2>
 
 <p align="center">
@@ -32,8 +30,6 @@
   <img src="https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=3DDC84" />
   <img src="https://img.shields.io/badge/iOS-0d1117?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
-
----
 
 <h2 align="center">🧬 Identity</h2>
 
@@ -59,8 +55,6 @@
 </table>
 
 </div>
-
----
 
 <h2 align="center">🎯 Mission Log</h2>
 
@@ -91,8 +85,6 @@
 
 </div>
 
----
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -108,8 +100,6 @@
 
 </div>
 
----
-
 <h2 align="center">🌐 Contact Channel</h2>
 
 <p align="center">
@@ -121,10 +111,5 @@
   </a>
 </p>
 
----
 
-<div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=TiCoder-coder&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge" alt="Profile views" />
-
-</div>
