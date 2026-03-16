@@ -4,7 +4,6 @@
   </h1>
 
   <p>
-    <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-00f5ff?style=for-the-badge&logo=databricks&logoColor=black" />
     <img src="https://img.shields.io/badge/Backend-Python%20%26%20Django-0bda51?style=for-the-badge&logo=django&logoColor=black" />
     <img src="https://img.shields.io/badge/Frontend-Design%20%26%20UI-ff00ff?style=for-the-badge&logo=figma&logoColor=white" />
   </p>
