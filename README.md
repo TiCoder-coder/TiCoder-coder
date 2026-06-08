@@ -1,12 +1,13 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Profile+TiCoder-coder;Frontend+Developer+%7C+UI%2FUX+Enthusiast;React+Native+%7C+TypeScript+%7C+Mobile+Apps;Building+modern+and+user-friendly+interfaces;iOS+%26+Android+Development;Clean+code+for+smooth+digital+experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Profile+TiCoder-coder;Frontend+Developer+%7C+UI%2FUX+Enthusiast;React+Native+%7C+TypeScript+%7C+Mobile+Apps;Firebase+%7C+Socket.io+%7C+Real-time+Features;iOS+%26+Android+Development;Clean+code+for+smooth+digital+experiences" alt="Typing SVG" />
   </h1>
 
   <p>
     <img src="https://img.shields.io/badge/Frontend-React%20Native%20%26%20TypeScript-001118?style=for-the-badge&logo=react&logoColor=00F5FF&labelColor=001118&color=00F5FF" />
     <img src="https://img.shields.io/badge/UI%2FUX-Modern%20Interface%20Design-19001f?style=for-the-badge&logo=figma&logoColor=FF00FF&labelColor=19001f&color=FF00FF" />
     <img src="https://img.shields.io/badge/Mobile-iOS%20%26%20Android-001a1a?style=for-the-badge&logo=android&logoColor=00FF99&labelColor=001a1a&color=00FF99" />
+    <img src="https://img.shields.io/badge/Realtime-Firebase%20%26%20Socket.io-001118?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=001118&color=FFCA28" />
   </p>
 </div>
 
@@ -15,7 +16,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,react,ts,nodejs,django,python,mongodb,docker,linux,windows,apple,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,react,ts,nodejs,firebase,django,python,mongodb,docker,linux,windows,apple,androidstudio&theme=dark" />
 </p>
 
 <p align="center">
@@ -25,6 +26,8 @@
   <img src="https://img.shields.io/badge/TypeScript-0b0f19?style=for-the-badge&logo=typescript&logoColor=00BFFF&labelColor=0b0f19&color=00BFFF" />
   <img src="https://img.shields.io/badge/TSX-0b0f19?style=for-the-badge&logo=react&logoColor=00F5FF&labelColor=0b0f19&color=00F5FF" />
   <img src="https://img.shields.io/badge/Node.js-0b0f19?style=for-the-badge&logo=nodedotjs&logoColor=39FF14&labelColor=0b0f19&color=39FF14" />
+  <img src="https://img.shields.io/badge/Firebase-0b0f19?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0b0f19&color=FFCA28" />
+  <img src="https://img.shields.io/badge/Socket.io-0b0f19?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF&labelColor=0b0f19&color=FFFFFF" />
   <img src="https://img.shields.io/badge/Django-0b0f19?style=for-the-badge&logo=django&logoColor=00FF99&labelColor=0b0f19&color=00FF99" />
   <img src="https://img.shields.io/badge/Python-0b0f19?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0b0f19&color=FFD43B" />
   <img src="https://img.shields.io/badge/SQL-0b0f19?style=for-the-badge&logo=mysql&logoColor=7FDBFF&labelColor=0b0f19&color=7FDBFF" />
@@ -70,27 +73,43 @@
 <table>
   <tr>
     <td align="center">🎨</td>
-    <td><strong>Focusing on frontend development with modern, clean, and user-friendly interfaces</strong></td>
+    <td><strong>Frontend Focus</strong></td>
+    <td><strong>Building modern, clean, responsive, and user-friendly interfaces</strong></td>
   </tr>
   <tr>
     <td align="center">📱</td>
-    <td><strong>Building mobile applications with React Native, TypeScript, iOS Development, and Android Development</strong></td>
+    <td><strong>Mobile Development</strong></td>
+    <td><strong>Developing mobile applications with React Native, TypeScript, iOS Development, and Android Development</strong></td>
   </tr>
   <tr>
     <td align="center">⚛️</td>
-    <td><strong>Creating smooth UI experiences using component-based architecture and reusable design patterns</strong></td>
+    <td><strong>UI Architecture</strong></td>
+    <td><strong>Creating smooth UI experiences with component-based architecture and reusable design patterns</strong></td>
+  </tr>
+  <tr>
+    <td align="center">🔥</td>
+    <td><strong>Firebase</strong></td>
+    <td><strong>Using Firebase for authentication, cloud data, notifications, and real-time mobile app features</strong></td>
+  </tr>
+  <tr>
+    <td align="center">🔌</td>
+    <td><strong>Socket.io</strong></td>
+    <td><strong>Building real-time communication, live chat, and interactive app features</strong></td>
   </tr>
   <tr>
     <td align="center">🟢</td>
-    <td><strong>Learning backend integration with Node.js, Python, Django, REST APIs, and databases</strong></td>
+    <td><strong>Backend Integration</strong></td>
+    <td><strong>Integrating mobile apps with Node.js, Python, Django, REST APIs, SQL, and MongoDB</strong></td>
   </tr>
   <tr>
     <td align="center">💻</td>
+    <td><strong>Development Environment</strong></td>
     <td><strong>Working across Windows, Linux, and macOS development environments</strong></td>
   </tr>
   <tr>
     <td align="center">🤖</td>
-    <td><strong>Exploring Data Science and Artificial Intelligence to build smarter digital products</strong></td>
+    <td><strong>AI Exploration</strong></td>
+    <td><strong>Exploring Data Science and Artificial Intelligence to build smarter and more practical digital products</strong></td>
   </tr>
 </table>
 </div>
